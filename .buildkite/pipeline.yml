@@ -3,3 +3,5 @@ steps:
     command: "go test -v ./..."
   - name: ":golang: vet"
     command: "go vet ./..."
+
+    #test
